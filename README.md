@@ -1,6 +1,6 @@
 # ✍️ Hindi Digit Classifier
 
-A compact convolutional neural network (CNN) that recognizes handwritten Hindi (Devanagari) digits 0–9. Built for the *Image and Video Processing* course (KEN3238) at Maastricht University.
+A compact convolutional neural network (CNN) that recognizes handwritten Hindi (Devanagari) digits 0–9. Built for the *Introduction to Image & Video Processing* course (KEN3238) at Maastricht University.
 
 We chose a small CNN because the task is image-based, the labels are balanced and clean, and a CNN learns local stroke patterns directly from the pixels.
 
